@@ -21,7 +21,6 @@
 - 🔭 I’m currently working on: **[https://www.sinotech.com.tw/index.aspx](https://www.sinotech.com.tw/tc/images/logo.png)**
 - 🌱 I’m currently learning: **[React, AI]**
 - ☕ Ask me about: **Coffee brewing (Pour over/Espresso), Tech Gadgets, & Coding.**
-- ⚡ Fun fact: **態度決定一切，細節決定成敗。**
 
 ---
 
@@ -60,11 +59,5 @@
   </a>
   <a href="https://www.linkedin.com/in/CJhang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CJhang-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@CJhangTW" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-CJhangTW-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/JhangCheng" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-JhangCheng-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </div>
