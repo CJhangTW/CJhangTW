@@ -31,13 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![CJhangTW's Stats](https://github-readme-stats.vercel.app/api?username=CJhangTW&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJhangTW&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-cjhang.com-blue?style=for-the-badge&logo=google-chrome)](https://cjhang.com)
